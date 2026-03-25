@@ -1,0 +1,9 @@
+cluster,dataset_index,action,reward,done,moved,blocked,hud_changed,success,episode_id,step_id
+0,2,2,0.0,False,False,True,False,False,0,2
+1,21274,3,0.0,False,True,False,False,False,917,1
+2,10991,0,0.0,False,True,False,False,False,471,8
+3,6721,0,0.0,False,True,False,False,False,292,14
+4,6712,1,0.0,False,True,False,False,False,292,5
+5,4077,1,0.0,False,True,False,False,False,181,18
+6,6100,2,0.0,False,True,False,False,False,266,5
+7,11002,1,0.0,False,True,False,False,False,471,19
